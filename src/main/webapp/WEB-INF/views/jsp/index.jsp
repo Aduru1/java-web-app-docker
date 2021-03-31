@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h1>Power Full people comes from Power full Places like our DevOpsTechnologies <h1>
+			<h1> DevOpsTechnologies <h1>
 			<h2>Welcome To DevOpsTechnologies, .</h2>
 			<h3> our  faculty  </h3>
 			<h1 style="color:red;">Abhinav Hans</h1>
@@ -52,7 +52,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p> Don't forget powerfull people comes from  our DevOps  Technologies 2019</p>
 	</footer>
 </div>
 
