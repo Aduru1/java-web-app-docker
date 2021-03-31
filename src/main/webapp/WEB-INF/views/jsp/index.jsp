@@ -40,11 +40,12 @@
 
 	<div class="row">
 		<div class="col-md-8">
+			<h1>Power Full people comes from Power full Places like our DevOpsTechnologies <h1>
 			<h2>Welcome To DevOpsTechnologies, .</h2>
 			<h3> our  faculty  </h3>
-			<h2>Abhinav Hans <h2>
-			<h2>Vikrant Sharma</h2>
-		        <h2>Vijay Garg<h2>
+			<h1 style="color:red;">Abhinav Hans</h1>
+			<h1 style="color:blue;">Vikrant Sharma</h1>
+			<h1 style="color:green;">Vijay Garg</h1>
 		</div>	
 	</div>
 
