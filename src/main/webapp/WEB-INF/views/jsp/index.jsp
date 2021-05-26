@@ -41,11 +41,11 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h1> DevOpsTechnologies <h1>
-			<h2>Welcome To DevOpsTechnologies, .</h2>
+			<h2>welcome to <strong>LPU </strong>.</h2>
 			<h3> our  faculty  </h3>
-			<h1 style="color:red;">Abhinav Hans</h1>
-			<h1 style="color:blue;">Vikrant Sharma</h1>
-			<h1 style="color:green;">Vijay Garg</h1>
+			<h1 style="color:red;">Sonu Lamba</h1>
+			<h1 style="color:blue;">Manjeet Kaur</h1>
+			<h1 style="color:blue;">Abinav Hans</h1>	
 		</div>	
 	</div>
 
