@@ -44,7 +44,7 @@
 			<h2>welcome to <strong>LPU </strong>.</h2>
 			<h3> our  faculty  </h3>
 			<h1 style="color:red;">Sonu Lamba</h1>
-			<h1 style="color:blue;">Manjeet Kaur</h1>
+			<h1 style="color:blue;">Manjit Kaur</h1>
 			<h1 style="color:blue;">Abinav Hans</h1>	
 		</div>	
 	</div>
